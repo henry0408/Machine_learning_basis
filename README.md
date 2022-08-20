@@ -5,7 +5,7 @@ The Sheffield Face Database was used to achieve a human face classification task
 
 Each person’s face is shown in a range of poses, which are from profile to frontal views. 
 
-The whole dataset is separated into directories labelled 1a, 1b, … 1t and images are numbered consecutively as they were taken.
+The whole dataset (cropped.zip) is separated into directories labelled 1a, 1b, … 1t and images are numbered consecutively as they were taken.
 
 Some basic Machine Learning techniques and algorithms are used and we got the final accuracy based on the confusion matrix.
 
